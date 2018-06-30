@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.idea/
+config.yaml
+*.crt
+*.key
+sp_metadata.xml
+users.json
+
+
